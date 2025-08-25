@@ -21,7 +21,7 @@ Sitio web para la gestión y comunicación de la Iglesia Evangélica de Dios Pen
    ```
 3. Inicia el servidor de desarrollo:
    ```bash
-   npm start
+   node app.js
    ```
 
 ## Uso
